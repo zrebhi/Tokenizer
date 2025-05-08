@@ -5,7 +5,7 @@
 [![OpenZeppelin](https://img.shields.io/badge/Library-OpenZeppelin-green)](https://docs.openzeppelin.com/contracts/4.x/)
 
 ## Project Overview
-This repository contains the code and documentation for the "Tokenizer" project - a BEP-20 token implemented on the BNB Smart Chain Testnet.
+This repository contains the code and documentation for the "Tokenizer" project - a BEP-20 token implemented on the BNB Smart Chain Testnet. If you're interested in creating your own token, the documentation features a [step by step guide](https://github.com/zrebhi/Tokenizer/blob/main/documentation/ProjectGuide.md).
 
 ✅ Core features demonstrated:
 - Smart contract creation & testing
